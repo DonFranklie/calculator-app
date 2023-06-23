@@ -28,7 +28,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Enter the first number in the input field.
 2. Select the desired arithmetic operation from the available options.
 3. Enter the second number in the input field.
-4. Click the "Calculate" button to perform the selected operation.
+4. Click the "=" button to perform the selected operation.
 5. The result will be displayed on the screen.
 
 ## Contributing
